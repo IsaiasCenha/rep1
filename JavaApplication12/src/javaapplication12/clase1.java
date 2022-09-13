@@ -9,5 +9,7 @@ package javaapplication12;
  * @author LENOVO
  */
 public class clase1 {
-    
+    private String articulo;
+    private String seccion;
+    private double precio;
 }
